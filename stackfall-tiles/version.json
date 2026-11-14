@@ -1,5 +1,5 @@
 {
-  "android": { "latest": "1.0.5", "minimum": "1.0.4" },
+  "android": { "latest": "1.0.6", "minimum": "1.0.4" },
   "ios": { "latest": "1.0.0", "minimum": "1.0.0", "url": "" },
-  "message": "Your game now saves automatically - close the app anytime and pick up right where you left off. Arabic & Urdu names on the leaderboard are fixed too!"
+  "message": ""
 }
