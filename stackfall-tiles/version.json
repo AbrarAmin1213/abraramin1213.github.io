@@ -1,5 +1,5 @@
 {
-  "android": { "latest": "1.0.7", "minimum": "1.0.4" },
+  "android": { "latest": "1.0.8", "minimum": "1.0.8" },
   "ios": { "latest": "1.0.0", "minimum": "1.0.0", "url": "" },
-  "message": ""
+  "message": "New Levels leaderboard, bigger combo pop-ups and leaderboard fixes. Update to keep playing!"
 }
